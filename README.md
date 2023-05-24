@@ -153,6 +153,8 @@ Cadieu, Charles F., Ha Hong, Daniel LK Yamins, Nicolas Pinto, Diego Ardila, Etha
 
 # Reviews
 
+ Schmidgall, S., Achterberg, J., Miconi, T., Kirsch, L., Ziaei, R., Hajiseyedrazi, P., Eshraghian, J. [**Brain-inspired learning in artificial neural networks: a review**](https://arxiv.org/abs/2305.11252) arXiv (2023)
+
 Zador, A., Richards, B., Ölveczky, B., Escola, S., Bengio, Y., Boahen, K., ... & Tsao, D. [**Toward next-generation artificial intelligence: catalyzing the NeuroAI revolution**](https://arxiv.org/abs/2210.08340) arXiv (2022)
 
 Doerig, A., Sommers, R., Seeliger, K., Richards, B., Ismael, J., Lindsay, G., ... & Kietzmann, T. C. [**The neuroconnectionist research programme**](https://arxiv.org/abs/2209.03718) arXiv (2022)
